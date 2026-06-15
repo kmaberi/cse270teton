@@ -1,0 +1,7 @@
+pytest
+pytest-mock
+requests
+flake8
+coverage
+requests-mock
+selenium
